@@ -20,7 +20,7 @@ html{
   border-radius: 5px;
   overflow: hidden;
   height: 400px;
- 
+  margin: 0 auto;
 }
 .selection-1{  
   background-color: #FFFFFF;
